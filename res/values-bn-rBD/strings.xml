@@ -34,7 +34,7 @@
     <string name="callFailed_noSignal" msgid="1758972490451048086">"কোনো সিগন্যাল নেই"</string>
     <string name="callFailed_limitExceeded" msgid="8796663077702587664">"ACM এর সীমা অতিক্রম করেছে"</string>
     <string name="callFailed_powerOff" msgid="9179061328562234362">"রেডিও বন্ধ"</string>
-    <string name="callFailed_simError" msgid="3307159523385380486">"কোনো SIM নেই বা SIM ত্রুটি"</string>
+    <string name="callFailed_simError" msgid="3307159523385380486">"কোনো সিম নেই বা সিম ত্রুটি"</string>
     <string name="callFailed_outOfService" msgid="4535901975891969115">"সেলুলার নেটওয়ার্ক উপলব্ধ নয়"</string>
     <string name="callFailed_fdn_only" msgid="1720606112619022283">"FDN এর দ্বারা আউটগোয়িং কলগুলি সীমাবদ্ধ করা আছে৷"</string>
     <string name="callFailed_dialToUssd" msgid="2093563828737170617">"DIAL অনুরোধটিকে USSD অনুরোধে রুপান্তরিত করা হয়েছে৷"</string>
@@ -51,8 +51,7 @@
     <string name="ringtone_silent" msgid="249805466934178869">"একবারও না"</string>
     <string name="ringtone_unknown" msgid="2303463713486734520">"অজানা রিংটোন"</string>
     <string name="callFailed_maximum_reached" msgid="4823790040422765056">"উপলব্ধ সমস্ত লাইন ব্যবহৃত হচ্ছে৷ একটি কল করতে, এই ডিভাইস বা আপনার অন্য কোনো ডিভাইসে যে কোনো একটি কল কেটে দিন৷"</string>
-    <!-- no translation found for callFailed_data_disabled (3885826754435317856) -->
-    <skip />
-    <!-- no translation found for callFailed_data_limit_reached (8092511810380535738) -->
-    <skip />
+    <string name="callFailed_data_disabled" msgid="3885826754435317856">"সেলুলার ডাটা অক্ষম হওয়ার কারণে কলটি সমাপ্ত হয়েছে৷"</string>
+    <string name="callFailed_data_limit_reached_description" msgid="1439284832802552582">"সেলুলার ডেটা সীমা ছাড়িয়ে যাওয়ার কারণে কলটি সমাপ্ত হয়েছে৷"</string>
+    <string name="callFailed_data_limit_reached" msgid="7045770594965160282">"ডেটা সীমাতে পৌঁছেছেন৷ কল সমাপ্ত হয়েছে"</string>
 </resources>
